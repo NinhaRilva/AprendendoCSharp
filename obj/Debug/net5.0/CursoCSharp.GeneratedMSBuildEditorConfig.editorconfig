@@ -1,0 +1,14 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = CursoCSharp
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\
+=======
+build_property.ProjectDir = F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\
+>>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97

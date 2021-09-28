@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Encapsulamento/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Encapsulamento.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Encapsulamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encapsulamento/1.0.0": {
+      "type": "project",
+      "path": "../Encapsulamento/Encapsulamento.csproj",
+      "msbuildProject": "../Encapsulamento/Encapsulamento.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Encapsulamento >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\Adriana\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\Pichau\\.nuget\\packages\\": {},
+>>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\AprendedoCSharp\\CursoCSharp.csproj",
+      "projectName": "CursoCSharp",
+      "projectPath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\AprendedoCSharp\\CursoCSharp.csproj",
+      "packagesPath": "C:\\Users\\Adriana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\AprendedoCSharp\\obj\\",
+=======
+      "projectUniqueName": "F:\\Todos os programa\\Área de Trabalho\\Geral\\meu projeto\\AprendedoCSharp\\CursoCSharp.csproj",
+      "projectName": "CursoCSharp",
+      "projectPath": "F:\\Todos os programa\\Área de Trabalho\\Geral\\meu projeto\\AprendedoCSharp\\CursoCSharp.csproj",
+      "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+      "outputPath": "F:\\Todos os programa\\Área de Trabalho\\Geral\\meu projeto\\AprendedoCSharp\\obj\\",
+>>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+<<<<<<< HEAD
+        "C:\\Users\\Adriana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Encapsulamento\\Encapsulamento.csproj": {
+              "projectPath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Encapsulamento\\Encapsulamento.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

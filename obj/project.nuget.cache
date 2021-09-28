@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "aYwjEgYdwYxomeDL1uaRNobdcfFl59MjToGlTw4xi/ir8MtbZUfCviejXmiB1KvzCstDU1M4538ef7dFG6RI0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\AprendedoCSharp\\CursoCSharp.csproj",
+=======
+  "dgSpecHash": "3sVaL3S80vUSPw44Ur91QGyfk06pDZ7D6EDwqpUtndy51quEPpnhQFipxUk7sp+DqkhhVTnTLSq40VW0xwwDpw==",
+  "success": true,
+  "projectFilePath": "F:\\Todos os programa\\Área de Trabalho\\Geral\\meu projeto\\AprendedoCSharp\\CursoCSharp.csproj",
+>>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97
+  "expectedPackageFiles": [],
+  "logs": []
+}
