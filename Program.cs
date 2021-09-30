@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.ClassesEMetodos ;
-<<<<<<< HEAD
+
 using CursoCSharp.OO;
-=======
+
 using CursoCSharp.Colecoes;
 
->>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97
+
 namespace CursoCSharp {
     class Program {
         static void Main(string[] args)
@@ -57,7 +57,7 @@ namespace CursoCSharp {
                  {" Props- Classes e Metodos ",Props.Executar },
                  {" Atributos Readonly- Classes e Metodos ",Readonly.Executar },
                  {"Enum Classes e Metodos ", ExemploEnum.Executar },
-<<<<<<< HEAD
+
                  {"Struct Classes  - Classes e Metodos  ", ExemploStruct.Executar },
                  {"Struct  VS Classes - Classes e Metodos  ", StructVsClass.Executar },
                  {"Valor vs Referência -Class e Metodos ",ValorVsReferencia.Executar }, 
@@ -68,7 +68,7 @@ namespace CursoCSharp {
                   {"Encapsumanto - OO  ", Encapsulamento.Executar },
 
 
-=======
+
                  {"Struct Classes e Metodos ", ExemploStruct.Executar },
                  {"Struct VS Class - Classes e Metodos ",StructVsClass.Executar },
                  {"Valor vs Referência - Classes e Metodos ",ValorVsReferencia.Executar },
@@ -87,11 +87,18 @@ namespace CursoCSharp {
                   {" Queue - Coleções",ColecoesFilaQueue.Executar}, 
                   {" Igualdade - Coleções",Igualdade.Executar}, 
                   {" Stack - Coleções",ColecaoStack.Executar}, 
-                   {"Dictionary - Coleções",ColecoesDictionary.Executar}, 
+                   {"Dictionary - Coleções",ColecoesDictionary.Executar },
+                 
+                   //Orietação a objeto O O
+                   {"Herança -O O",Heranca.Executar}, 
+                   {"Construção This - O O",ConstrutoresThis.Executar}, 
+                   {"Encapsulamento - O O",Encapsulamento.Executar}, 
+
+
+
 
 
                  
->>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97
 
 
 

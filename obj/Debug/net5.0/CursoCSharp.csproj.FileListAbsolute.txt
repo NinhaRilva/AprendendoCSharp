@@ -65,3 +65,11 @@ F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Deb
 F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
 F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
 >>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.pdb

@@ -1,38 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\AprendedoCSharp\\CursoCSharp.csproj": {}
+    "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\AprendendoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\AprendedoCSharp\\CursoCSharp.csproj": {
+    "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\AprendendoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\AprendedoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\AprendendoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\AprendedoCSharp\\CursoCSharp.csproj",
-        "packagesPath": "C:\\Users\\Adriana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\AprendedoCSharp\\obj\\",
-=======
-    "F:\\Todos os programa\\Área de Trabalho\\Geral\\meu projeto\\AprendedoCSharp\\CursoCSharp.csproj": {}
-  },
-  "projects": {
-    "F:\\Todos os programa\\Área de Trabalho\\Geral\\meu projeto\\AprendedoCSharp\\CursoCSharp.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Todos os programa\\Área de Trabalho\\Geral\\meu projeto\\AprendedoCSharp\\CursoCSharp.csproj",
-        "projectName": "CursoCSharp",
-        "projectPath": "F:\\Todos os programa\\Área de Trabalho\\Geral\\meu projeto\\AprendedoCSharp\\CursoCSharp.csproj",
+        "projectPath": "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\AprendendoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "F:\\Todos os programa\\Área de Trabalho\\Geral\\meu projeto\\AprendedoCSharp\\obj\\",
->>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97
+        "outputPath": "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\AprendendoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\Adriana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -47,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Encapsulamento\\Encapsulamento.csproj": {
-                "projectPath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Encapsulamento\\Encapsulamento.csproj"
+              "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\Encapsulamento\\Encapsulamento.csproj": {
+                "projectPath": "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\Encapsulamento\\Encapsulamento.csproj"
               }
             }
           }
@@ -77,27 +62,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Encapsulamento\\Encapsulamento.csproj": {
+    "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\Encapsulamento\\Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Encapsulamento\\Encapsulamento.csproj",
+        "projectUniqueName": "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\Encapsulamento\\Encapsulamento.csproj",
         "projectName": "Encapsulamento",
-        "projectPath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Encapsulamento\\Encapsulamento.csproj",
-        "packagesPath": "C:\\Users\\Adriana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Encapsulamento\\obj\\",
+        "projectPath": "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\Encapsulamento\\Encapsulamento.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "F:\\Todos os programa\\Área de Trabalho\\meu projeto\\Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Adriana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
           "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -138,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
