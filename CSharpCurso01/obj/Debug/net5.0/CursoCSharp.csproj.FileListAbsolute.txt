@@ -1,0 +1,107 @@
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.exe
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.deps.json
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.json
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.dev.json
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\bin\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.pdb
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.exe
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.deps.json
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.json
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.dev.json
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\bin\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.pdb
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+C:\Users\adriana.rafael.silva\Desktop\Geral\aulas\udemy\udemy csharp\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
+<<<<<<< HEAD
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.exe
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.deps.json
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.dll
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\bin\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.pdb
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
+=======
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.exe
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.deps.json
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.json
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.dev.json
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.dll
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\bin\Debug\net5.0\ref\CursoCSharp.dll
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\bin\Debug\net5.0\CursoCSharp.pdb
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+F:\Todos os programa\Área de Trabalho\Geral\meu projeto\AprendedoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
+>>>>>>> be47f22ed7a044543bb92cdffb0b6af45e1b0f97
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+F:\Todos os programa\Área de Trabalho\meu projeto\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.exe
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.deps.json
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.json
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.dev.json
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\bin\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.pdb
+C:\Users\adriana.rafael.silva\Desktop\meus docs\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.exe
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.deps.json
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.json
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.dev.json
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\bin\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\bin\Debug\net5.0\CursoCSharp.pdb
+C:\Users\adriana.rafael.silva\Desktop\meus docs\Cshap\AprendendoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache

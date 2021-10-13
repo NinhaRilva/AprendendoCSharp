@@ -1,0 +1,16 @@
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.exe
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.deps.json
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.runtimeconfig.json
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.runtimeconfig.dev.json
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\bin\Debug\net5.0\ref\CSharpCurso01.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.pdb
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.csproj.AssemblyReference.cache
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.AssemblyInfoInputs.cache
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.AssemblyInfo.cs
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.csproj.CoreCompileInputs.cache
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\ref\CSharpCurso01.dll
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.pdb
+C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.genruntimeconfig.cache
