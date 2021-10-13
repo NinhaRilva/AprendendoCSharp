@@ -14,3 +14,19 @@ C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\
 C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\ref\CSharpCurso01.dll
 C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.pdb
 C:\Users\adriana.rafael.silva\Desktop\meus docs\CSharpCurso01\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.genruntimeconfig.cache
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.exe
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.deps.json
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.dll
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\bin\Debug\net5.0\ref\CSharpCurso01.dll
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\bin\Debug\net5.0\CSharpCurso01.pdb
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.csproj.AssemblyReference.cache
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.dll
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\obj\Debug\net5.0\ref\CSharpCurso01.dll
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.pdb
+C:\Users\Adriana\OneDrive\Área de Trabalho\Adriana\Csharp\AprendendoCSharp\CSharpCurso01\obj\Debug\net5.0\CSharpCurso01.genruntimeconfig.cache
