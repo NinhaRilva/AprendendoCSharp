@@ -4,7 +4,7 @@ using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.ClassesEMetodos ;
 using CursoCSharp.OO;
-
+using CSharpCurso01.OO;
 
 namespace CursoCSharp {
     class Program {
@@ -60,7 +60,9 @@ namespace CursoCSharp {
                  // Orientação a objeto OO                              
                   {"Orientação a Objeto - OO  ", Heranca.Executar }, 
                   {"Costrutores  this - OO  ", ConstrutoresThis.Executar },
-                   { "Encapsulamento this - OO  ", Encapsulamento.Executar }, 
+                   { "Encapsulamento  - OO  ", Encapsulamento.Executar }, 
+                   { "Polimorfismos - OO  ", Polimorfimo.Executar}, 
+                   { "Abstract - OO  ", Abstract.Executar}, 
 
 
     

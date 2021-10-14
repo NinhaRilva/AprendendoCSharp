@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Csharp\\AprendendoCSharp\\CSharpCurso01\\CSharpCurso01.csproj": {}
+    "C:\\Users\\adriana.rafael.silva\\Desktop\\meus docs\\CSharpCurso01\\CSharpCurso01\\CSharpCurso01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Csharp\\AprendendoCSharp\\CSharpCurso01\\CSharpCurso01.csproj": {
+    "C:\\Users\\adriana.rafael.silva\\Desktop\\meus docs\\CSharpCurso01\\CSharpCurso01\\CSharpCurso01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Csharp\\AprendendoCSharp\\CSharpCurso01\\CSharpCurso01.csproj",
+        "projectUniqueName": "C:\\Users\\adriana.rafael.silva\\Desktop\\meus docs\\CSharpCurso01\\CSharpCurso01\\CSharpCurso01.csproj",
         "projectName": "CSharpCurso01",
-        "projectPath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Csharp\\AprendendoCSharp\\CSharpCurso01\\CSharpCurso01.csproj",
-        "packagesPath": "C:\\Users\\Adriana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adriana\\OneDrive\\Área de Trabalho\\Adriana\\Csharp\\AprendendoCSharp\\CSharpCurso01\\obj\\",
+        "projectPath": "C:\\Users\\adriana.rafael.silva\\Desktop\\meus docs\\CSharpCurso01\\CSharpCurso01\\CSharpCurso01.csproj",
+        "packagesPath": "C:\\Users\\adriana.rafael.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adriana.rafael.silva\\Desktop\\meus docs\\CSharpCurso01\\CSharpCurso01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Adriana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adriana.rafael.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
