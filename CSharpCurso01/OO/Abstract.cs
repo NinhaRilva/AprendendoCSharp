@@ -17,6 +17,7 @@ namespace CSharpCurso01.OO
         }
 
         public class Samsung : Celular {
+            // quando vc sobrescreve  um metodoé preciso colo override
             public override string Assistente()
             {
                 return "Óla! Meu nome é Bixby!";

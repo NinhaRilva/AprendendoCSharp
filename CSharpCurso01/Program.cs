@@ -63,6 +63,8 @@ namespace CursoCSharp {
                    { "Encapsulamento  - OO  ", Encapsulamento.Executar }, 
                    { "Polimorfismos - OO  ", Polimorfimo.Executar}, 
                    { "Abstract - OO  ", Abstract.Executar}, 
+                   { "Interface - OO  ", Interface.Executar}, 
+                   { "Sealed - OO  ", Selaled.Executar}, 
 
 
     
